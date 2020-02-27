@@ -1,7 +1,7 @@
-# Resume matching 
+# Resume Comparison
 It is simple resume to job description compare tool
 
-## BackEnd Algorithm
+## Algorithm
 Using NLP we analyze job description with job applicant's resume and provide matching results 
 
 ## UI
