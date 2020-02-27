@@ -1,4 +1,3 @@
-#F:\LocalDriveD\Analytics\Learning\appdevelopment\Exp2\CVcomparemaster\app.py
 from flask import Flask, render_template, url_for, request, redirect
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
