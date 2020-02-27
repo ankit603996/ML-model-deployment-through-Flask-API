@@ -10,4 +10,4 @@ Flask API through python running on local server (that can be deployed on google
 
 ## How to run on local server:
 
-just type "python F:\.Folder..\app.py" on cmd portal
+just type "python Folder\app.py" on cmd portal
